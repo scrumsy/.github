@@ -1,2 +1,4 @@
-# .github
-Public Repository for Scrumsy.
+# About scrumsy/.github
+> scrumsy/.github is a special repository.
+>
+> The /profile/README.md will appear on the organization's profile.
